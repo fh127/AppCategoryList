@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista de catalogo de Aplicaciones</string>
+    <string name="title_activity_main">Lista de Categorias</string>
+    <string name="action_settings">Configuraciones</string>
+    <string name="alert">Alerta</string>
+    <string name="label_ok">Aceptar</string>
+    <string name="off_line_connection">sin conexión</string>
+</resources>
