@@ -9,7 +9,7 @@ App support from Android SDK 4+
 
 this app is developed in Android Studio.
 the Android project used Retrolambda gradle plugin to support lambda functions.
-In the ```shgradle.properties``` to configure your java sdk path
+In the ```gradle.properties``` to configure your java sdk path
 ```sh
 JAVA7_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_75.jdk/Contents/Home
 JAVA8_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home
