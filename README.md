@@ -1,6 +1,11 @@
 # AppCategoryList
 This Demo App is the construction of the views of a category catalog, it consists in a applications list, is expected to show all of its respective apps with icon and name and to show the app details when an item is selected.
 
+## API REST SERVICE
+```sh
+https://itunes.apple.com/us/rss/topfreeapplications/limit=20/json
+```
+
 ## Support
 App support from Android SDK 4+ to Smartphone and Tablet devices
 
