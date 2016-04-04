@@ -19,6 +19,7 @@ JAVA8_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home
 Android support Design 23.2.1
 Retrolambda - https://github.com/evant/gradle-retrolambda -to support lambda functions
 Retrofit - http://square.github.io/retrofit/ - Api Http client
+Realm - https://realm.io/docs/java/latest/ - mobile database
 Rx java/Rx Android - https://github.com/ReactiveX/RxJava - asynchronous process and event-based logic
 ButterKnife - http://jakewharton.github.io/butterknife/ - method binding for Android views
 Picasso -http://square.github.io/picasso/- to manage images process
